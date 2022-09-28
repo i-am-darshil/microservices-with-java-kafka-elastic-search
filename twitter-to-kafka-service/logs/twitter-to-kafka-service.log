@@ -1,0 +1,537 @@
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 67573 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - Started App in 0.275 seconds (JVM running for 0.7)
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 14:49:00 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 69305 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - Dependency injected
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - Started App in 0.272 seconds (JVM running for 0.543)
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 14:59:47 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 69479 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - Dependency injected
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - Started App in 0.266 seconds (JVM running for 0.539)
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 15:01:05 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 69640 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - Dependency injected
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - Started App in 0.273 seconds (JVM running for 0.541)
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 15:02:17 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 81886 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - Dependency injected in App
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - Started App in 0.277 seconds (JVM running for 0.69)
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 16:17:11 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 16:17:11 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-09-28 16:17:11 [main] INFO  c.m.d.r.impl.TwitterStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 16:17:12 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-09-28 16:17:12 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-09-28 16:17:12 [SpringContextShutdownHook] INFO  c.m.d.r.impl.TwitterStreamRunner - Closing twitter stream!
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 82121 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.TwitterStreamRunner@30404dba, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!)
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - Started App in 0.277 seconds (JVM running for 0.548)
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 16:18:13 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 16:18:13 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-09-28 16:18:13 [main] INFO  c.m.d.r.impl.TwitterStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 16:18:14 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-09-28 16:18:14 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-09-28 16:18:14 [SpringContextShutdownHook] INFO  c.m.d.r.impl.TwitterStreamRunner - Closing twitter stream!
+2022-09-28 19:01:28 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 131 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 19:01:28 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 19:01:28 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'app': Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.microservices.demo.runner.StreamRunner' available: expected single matching bean but found 2: twitterStreamRunner,twitterV2KafkaStreamRunner
+2022-09-28 19:01:28 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-28 19:01:28 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in com.microservices.demo.App required a single bean, but 2 were found:
+	- twitterStreamRunner: defined in file [/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes/com/microservices/demo/runner/impl/TwitterStreamRunner.class]
+	- twitterV2KafkaStreamRunner: defined in file [/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes/com/microservices/demo/runner/impl/TwitterV2KafkaStreamRunner.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 418 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.TwitterV2KafkaStreamRunner@659925f4, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB)
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - Started App in 0.281 seconds (JVM running for 0.543)
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 19:02:40 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 19:02:40 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - bearerToken : AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB
+2022-09-28 19:02:40 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 19:02:44 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-09-28 19:02:44 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-28 19:02:44 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:798)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:779)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:322)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.microservices.demo.App.main(App.java:37)
+Caused by: java.lang.NullPointerException: null
+	at com.microservices.demo.runner.impl.TwitterV2StreamHelper.connectStream(TwitterV2StreamHelper.java:84)
+	at com.microservices.demo.runner.impl.TwitterV2KafkaStreamRunner.start(TwitterV2KafkaStreamRunner.java:40)
+	at com.microservices.demo.App.run(App.java:45)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:795)
+	... 5 common frames omitted
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 1995 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.TwitterV2KafkaStreamRunner@659925f4, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB)
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - Started App in 0.286 seconds (JVM running for 0.549)
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 19:11:45 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 19:11:45 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - bearerToken : AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB
+2022-09-28 19:11:45 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 19:11:50 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-09-28 19:11:51 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - response: HttpResponseProxy{HTTP/1.1 200 OK [date: Wed, 28 Sep 2022 13:41:51 UTC, perf: 7626143928, server: tsa_f, set-cookie: guest_id_marketing=v1%3A166437251130446290; Max-Age=63072000; Expires=Fri, 27 Sep 2024 13:41:51 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: guest_id_ads=v1%3A166437251130446290; Max-Age=63072000; Expires=Fri, 27 Sep 2024 13:41:51 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: personalization_id="v1_vn+QV2YPBFLKR98m7bS9Xw=="; Max-Age=63072000; Expires=Fri, 27 Sep 2024 13:41:51 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: guest_id=v1%3A166437251130446290; Max-Age=63072000; Expires=Fri, 27 Sep 2024 13:41:51 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, cache-control: no-cache, no-store, max-age=0, x-access-level: read, x-frame-options: SAMEORIGIN, x-transaction-id: 69c2e6d9541cca11, x-xss-protection: 0, x-rate-limit-limit: 50, x-rate-limit-reset: 1664372864, x-content-type-options: nosniff, x-rate-limit-remaining: 48, strict-transport-security: max-age=631138519, x-response-time: 348, x-connection-hash: f7ef674b0040a0b4ceabfa3b258a6b17770f986f103515b0e6d8511a3de7d456, transfer-encoding: chunked] org.apache.http.client.entity.DecompressingEntity@1e9469b8}
+2022-09-28 19:12:23 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - line: {"data":{"author_id":"1466249019857182721","created_at":"2022-09-28T13:41:47.000Z","id":"1575118575441879041","text":"RT @uema5aCh: サーバー設定に時間かかっちゃいました💦\nようやく準備できたので22:30開始予定❗配信でIP公開します❗\nマイクラのバージョンはJava版最新の1.19.2でお願いします😊統合版は参加できません🙇"},"includes":{"users":[{"id":"1466249019857182721","name":"みおん🍌☃️🎀","username":"mionly30"},{"id":"769042392020316161","name":"⤴️うえまさ🦔BetterMC実況はじめました🎐","username":"uema5aCh"}]},"matching_rules":[{"id":"1575118583033643017","tag":"Keyword: Java"}]}
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text というかStruts1でもきれいに作ってればいいんだけど、20年ぐらい前にJava初心者が作ったようなWebアプリでドキュメントも一切ないのでもう何もかも色々とつらい
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @5eniorDeveloper: Mentira, sí me quejo! Pero gracias a Java sobrevivo... https://t.co/eiHFEcjdAA
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @sunrickbell: NEW COLUMN. EXCLUSIVE. This will put a jolt in your java. More poll findings. On how Smith and other UCP candidates would…
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ❗ランキング:37位❗ (ナイト＆週末セール)
+
+「Oral-B by BRAUN オーラルB 電動歯ブラシ ジーニアスX チタニウムグレー D7065366XCTG」
+メーカ:ブラウン
+
+価格:¥19,800(22:42)
+
+https://t.co/iene3870ut
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ❗ランキング：17位❗ (無停電電源装置（UPS）)
+
+「交換用バッテリーパック BP70XS」
+メーカ:オムロン ソーシアルソリューションズ
+
+価格:¥25,210(22:42)
+
+https://t.co/rB2o3Hb5Oy
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @java_experts: Core Java Roadmap
+
+👇 https://t.co/gI46auKWTo
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Now playing: Big Daddy and Red Hot Java - Meditation Blues https://t.co/AmmScjFxok
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Lukasz_Najder Nowela w 8 godzin? W tę jedną noc miał chłopina tempo jak Mróz.
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 🚨 NEW: CVE-2022-39243 🚨 NuProcess is an external process execution implementation for Java. In all the versions of NuProcess where it forks processes by using the JVM's Java_java_lang_UNIXProcess_forkAndExec method... (click for more) Severity: CRITICAL https://t.co/GPFc4aQZaN
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @5eniorDeveloper: Mentira, sí me quejo! Pero gracias a Java sobrevivo... https://t.co/eiHFEcjdAA
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @Ajidderh442: @bitgetglobal @mineplexio How could Mineplex java become popular again? I'm curious to know what the player's opinion are…
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @MallickDebajit HTML,CSS,C,C++,JAVA
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text #Hiring for Java Technical Lead 
+please share your profile on sofoit@sofomation.com
+Min 3 yrs banking application experience with java competencies ( in over all 6-8 yrs) . Person should have worked for banking app development and not support/ operations.…https://t.co/BcEyoOym3z
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @hellonehha I can't sure but look likes LinkedIn frauds are also available here on Twitter,  especially when you sees any Indian recruiter.
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Practice and Practice💫
+.
+.
+.
+.
+#keepgoing
+#education #technology #tally #tallyprime #raipur #bhopal #finance #career #opportunity #onlineclasses #java #python #datascience #webdevelopment #digitalmarketing #internship #gre #ielts #studyabroad #gmat 
+#motivationalquotes https://t.co/LTa8e712fo
+2022-09-28 19:12:23 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @siirsozu: ''Hayvanla yakınlık kurmak, insanlarla kurmaktan daha kolay.''
+
+Franz Kafka
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Emerging Vulnerability Found CVE-2022-39243 - NuProcess is an external process execution implementation for Java. In all the versions of NuProcess where it forks processes by using the JVM's Java_java_lang_UNIXProcess_forkAndExec method (1.2.0...
+
+See https://t.co/3dsJ07dEBb
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Ghostly_Kittens @VoiceHQ @thefractalog Busy dude is one way to put it! haha.
+I haven't shown my blender works as of yet, it's definitely a great tool. c4d as well, of course. 
+
+I use Java, mandelbulb 3d, photography, tons of ai tools and much more 🖖
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: دقایقی از سخنرانی نگذشته بود که یک نفر در میان جمعیت دیکتاتور را  هو کرد، آواز او به سرعت با همراهی جمعیت ادامه یافت، چائ…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Conectar Java y Sqlite en Netbeans https://t.co/ActI4q69Mr
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @sindencosta @mirazh_me W lagi bercocok tanam mangs. Jauh dari hiruk pikuk verkotaan 😁
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @MacopeninSUTABA: Javaエンジニア20人を誤ってJavaScriptエンジニアを20人集めてしまいました。まあ名前似てるから大丈夫ですよね？ https://t.co/KXhqnhMgSk
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @jwprosje Maar hij IS een lul!
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @ShowwcaseHQ: Dear Recruiters 🙌🏻
+
+If you're looking for a developer with decades of experience who is aware of:
+
+- Java
+- C#
+- JavaScrip…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: شاید بپرسید: چر با وجود تردید نیروهای سرکوب و قرارگرفتن رژیم در لبه پرتگاه، دیکتاتور مانند گذشته‌ با یک سخنرانی طرفداران…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @MSimsek99 @burak00732464 @LokmanErcan @yazilimogrenn Mobil app ve oyun aynı değil. Java ile mobil app yaparsın, ya da native api ile basic oyunlar. Java ile oyun kütüphaneleri de var ama komünitesi çok yok. Oyun icin Unity, android app icin java/kotlin, iOS app icin swift. Cross platform appler icin Flutter, React Native vb.
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @setiogi: “Ayo, rek!*”
+[Let’s go!]
+-@BTS_twt Jin💜
+
+[Text above him: Me, when my friend invited me to go around Surabaya**]
+
+* in Javanes…
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @bernecel1 @EastJavaAlter Standart indo region java 😂
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Preciso de alguém pra me ensinar Java. Não entra na minha cabeça
+2022-09-28 19:13:06 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Penyidik Lengkapi Berkas Kasus Mutilasi 4 Warga di Mimika Papua https://t.co/AAck3MnD1C
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @AnaSomane @Weichert_David Pas du tout.  Ils n'ont qu'à  travailler comme moi au lieu de se tourner les pouces ou faire la java  en attendant sempiternellement du secours.
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text TOP JOB in Germany: Java and C++ Software Developer (m/f/d) in Böblingen - Joblink: https://t.co/dt4ZKXZktz #Jobs #germany https://t.co/Ho2cnnHbIM
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @yontengoP: たしかに僕は以前に
+「いやでもJavaが書ければ何となくで、PythonとかC#とかも書けたりましますよ、そこまで書き方が違うわけではないので」と申しましたがね
+
+だからっつって
+「じゃあどんな開発言語の現場でも入れて大丈夫」ってことでは無いですし…
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @lincolixavier comeu python ontem e tá comendo java hj diretor?
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @jwprosje Had iemand poep geroepen?
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @KAFKA_Dev Rapper je bent een Topper ,een held,daar kunnen vele mensen een voorbeeld aan nemen aan jou ,maar ik doe ook niet mee met deze onzin ,we houden de ruggen recht,en laten ons ook niet doodspuiten ik doe niet mee aan de #genocide en #oversterfte,Sterkte voor de mensen die nog slapen
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @ValueCoders: Infographic: SQL Commands!
+
+#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #Ten…
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @KAFKA_Dev Ook niet...nooit.
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @hanxhx_ Tu peux même mixer fluent pour la collecte, elasticsearch pour les recherches rapides avec un TTL plus court et Loki sur de l'object storage plus long. Et en front Kibana et Grafana en même temps why not ^^ . Bref y-a pas une seule formule figée pour tous le monde
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 正直20人サクッと集められるならITリテラシーいらんくらい優秀な営業やとおもう… https://t.co/5BlVGQCNUn
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @yontengoP: たしかに僕は以前に
+「いやでもJavaが書ければ何となくで、PythonとかC#とかも書けたりましますよ、そこまで書き方が違うわけではないので」と申しましたがね
+
+だからっつって
+「じゃあどんな開発言語の現場でも入れて大丈夫」ってことでは無いですし…
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Ross993rl @EastJavaAlter Keras dong
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @jde2022 @mervatim Jim Harrison
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Java_jigga [allegedly]
+2022-09-28 19:13:31 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @CityOfTirana During the time of oppression against the Muslims, as we see it today, Allah will send Imam Al-Mahdi. Muhammad Qasim's dreams indicate that the time of Imam Al-Mahdi is upon us. More and more people are talking about these dreams. https://t.co/vltGXxgQzs https://t.co/mfTZjgDeuP
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @formacion1line: 🔴 32 Cursos Gratis NUEVOS en UDEMY
+👉 https://t.co/jcvUzpx0xl
+
+Ya tenemos actualizada la lista con los lanzamientos de h…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @Java_jigga: “Rachel dolezal got a fat pussy” https://t.co/GQdWDZhVJk
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @BillyKorando: Hey #Java Developers,
+
+It's your Monday #SipOfJava!
+
+Want to improve your applications startup performance? ⏱
+
+Consider c…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Adaってことは国防案件？？ https://t.co/DgML73kr4m
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 😍 https://t.co/pQMFVtj8L4
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Description:
+· Bachelor’s degree in CS, ECE, EE or equivalent
+· Good knowledge of Database systems - SQL and NoSQL systems
+Version control tools - Git
+· Strong understanding of Microservices architecture and distributed systems
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @ShowwcaseHQ: Dear Recruiters 🙌🏻
+
+If you're looking for a developer with decades of experience who is aware of:
+
+- Java
+- C#
+- JavaScrip…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Ada案件、実在するんだ…… https://t.co/KB0QIJs6wg
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text #iqubetechnologiesinc
+#java #saleforce
+#datascience #python
+#cybersecurity #uideveloper #businessanalytics
+#greencard #directvendorclients
+#freetraining #directaccess
+#followformore https://t.co/lJ8FDDVDe5
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text · Experience with cloud service providers - DigitalOcean, AWS etc.
+· Containerization and container orchestration 
+· Ability to accurately forecast operational expenses and also optimize them
+· Ability to create detailed and clear documentation
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @bigdummy401: a film student, discord moderator, and an amateur knife collector walk into hava java, what do you do? https://t.co/ivExjO…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Literally no one:
+
+Me to the guy at the gas station every single day: “hey man…. Can I get uhhh a Java Dutch please? Yup just one. Thanks.”
+
+Like a broken record
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: شاید بپرسید: چر با وجود تردید نیروهای سرکوب و قرارگرفتن رژیم در لبه پرتگاه، دیکتاتور مانند گذشته‌ با یک سخنرانی طرفداران…
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text I HATED Integration. My goodness.
+
+It's like the Arrays to my Java.
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Which is hilarious because I never had that problem with lists, dictionaries, tuples and sets in py.
+
+But you see arrays? I cried LITERAL tears.
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ランキング:9位 「ペット用品」 (22:44)
+
+762120
+
+価格:-🔥
+
+https://t.co/ybMVBbvY7L
+2022-09-28 19:14:14 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @elhelouzouhair @VoiceHQ @thefractalog I was busy for a few weeks working on a poly Halloween collection.  I love 3d work. lol
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: شاید بپرسید: چر با وجود تردید نیروهای سرکوب و قرارگرفتن رژیم در لبه پرتگاه، دیکتاتور مانند گذشته‌ با یک سخنرانی طرفداران…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @uema5aCh: サーバー設定に時間かかっちゃいました💦
+ようやく準備できたので22:30開始予定❗配信でIP公開します❗
+マイクラのバージョンはJava版最新の1.19.2でお願いします😊統合版は参加できません🙇
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: دقایقی از سخنرانی نگذشته بود که یک نفر در میان جمعیت دیکتاتور را  هو کرد، آواز او به سرعت با همراهی جمعیت ادامه یافت، چائ…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @_axtone Polos opuestos se atraen
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @hanxhx_ Perso plus ça va plus j'utilises fluent car au niveau footprint je récupère l'avantage de filebeat & cie, et quand j'ai besoin de faire de la découpe un peu chelou tout ce qui justifiait la présence de logstash (assez lourd, jvm et tout) bah fluent sait faire pareil ^^
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @zobjobsGB: Senior Java Developer at Version 1
+Working as part of a highly skilled team youll get the opportunity to work with new and e…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @KAFKA_Dev Je hebt je toen ook laten testen en het Spaanse formulier ingevuld. Ook zijn er foto's op het vliegveld. En je beweert zelf nog op 28 september 2022 dat je NOOIT een mondkapje op doet of je last testen. Bauke vd Vrugt en viruswaarheid lid liegt gewoon.
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text :( yall making a mc bedrock server i guess i cant join.
+
+Oh wait. I HAVE BOTH java and bedrock!!
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @jcconf: This year of #JCConf we invite @JosePaumard to talk about: From #Java 17 to Java 21 and Beyond. The talk will covers three of t…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Carlocollodi6 @Weichert_David Bah moi j'ai pas honte de porter le voile et mon voile n'empêche pas autrui de ce battre pour le retirer.
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 全部Javaでやらせろ
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @EverydayKiiara:  Let’s Start Over 
+#Python #Roblox #IoT #Azure #Ad #PyTorch #100DaysOfCode #RStats #CPP #Java #DeFi #ADA #Flutter #SQL…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @KiiaraUniverse:  I'm Gasping 
+#Python #Roblox #IoT #ETH #Azure #PyTorch #100DaysOfCode #RStats #CPP #Java #BTSV #ADA #music #Flutter #…
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @h8rproof82 I love the idea but I’m sure Kafka not playing him would matter to Andy and Veach.
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Anies Kukuh Lanjutkan Program Net Zero Carbon Sebelum Lengser https://t.co/UsFtl9AhQR
+2022-09-28 19:15:00 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 💻مبرمج ذو خبرة وكفاءة عالية متخصص بحل الواجبات والمشاريع  والبحوث 💻
+#جافا
+#برمجه_asp.net
+#برمجه_C++
+#java
+#هندسة_برمجيات
+#برمجة_شيئية
+#سي_شارب
+#برمجة
+#سي_بلس_بلس
+#php
+.#web
+#html_css
+للتواصل واتساب اضغط الرابط 👇
+https://t.co/sGw7KH2A5M https://t.co/rry5bmIYWQ
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ランキング:9位 (CD、音楽ソフト、チケット)
+
+CD/松任谷由実/ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜 (通常盤)...(22:45)
+
+https://t.co/8ycnJ9ErWG
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ❗ランキング:38位❗(ナイト＆週末セール)
+
+「［在庫限り］【アウトレット】【日本正規代理店品】Ergobaby（エルゴベビー）OMNI360 クールエア デザート 抱っこひも ベビー...」
+メーカ:Ergobaby
+
+価格:¥19,980  ✨ポイント10倍✨
+🔥売り切れ間近🔥(22:45)
+
+https://t.co/fvniwu03gH
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ❗ランキング：18位❗ (無停電電源装置（UPS）)
+
+「UPS (常時インバータ)  750VA/ 600W:ラック (縦置可)  BU75RW」
+メーカ:オムロン ソーシアルソリューションズ
+
+価格:¥109,910(22:45)
+
+https://t.co/93szyzpAzy
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Contributor @mrpolonog reviews Thunderbolts #2 by @marvel @jimzub @SeanIzaakse, Java Tartaglia and @Joesabino. Find out why he gives it a perfect score. https://t.co/96rTaxY2Ie
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @Kitapcumlelerii: Odamda günlerdir yalnızım, ziyanı yok dünyada da yıllarca yalnız değil miydim?
+
+Franz Kafka, Dönüşüm https://t.co/rz6Q…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @grafffu: @TheLTONetwork
+LTO is here and expanding! 
+New projects upcoming!
+LTO Network is a hybrid blockchain for securing, verifying a…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @idriss_neumann Pour ce projet, j'ai du grafana+prometheus+influxdb. Disons que la simplicité de Kibana et par rebond sur Elasticsearch s'est bien dégradé depuis quelques versions. Auparavant, je trouvais ça simple, là sur mon infra perso, c'est sapin de noel le monitoring 😒
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text #ikdoenietmee 💪 https://t.co/dgVT6s7bRs
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text 🇬🇧 Build Hotel Management System Java Project 🆕
+🔗https://t.co/PbUDiKfv1c
+🆓 Free course for now
+#onlinecourses #WebDevelopment #udemycoupon #Development #Java #programming #100DaysOfCode #Udemy #developer #courses #udemyfree https://t.co/67L9s7oLZ7
+2022-09-28 19:15:57 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 20:28:24 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 14540 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 20:28:24 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 20:28:25 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'app': Unsatisfied dependency expressed through constructor parameter 1; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.microservices.demo.runner.StreamRunner' available: expected single matching bean but found 2: mockKafkaStreamRunner,twitterStreamRunner
+2022-09-28 20:28:25 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-28 20:28:25 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 1 of constructor in com.microservices.demo.App required a single bean, but 2 were found:
+	- mockKafkaStreamRunner: defined in file [/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes/com/microservices/demo/runner/impl/MockKafkaStreamRunner.class]
+	- twitterStreamRunner: defined in file [/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes/com/microservices/demo/runner/impl/TwitterStreamRunner.class]
+
+
+Action:
+
+Consider marking one of the beans as @Primary, updating the consumer to accept multiple beans, or using @Qualifier to identify the bean that should be consumed
+
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 14754 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.MockKafkaStreamRunner@267517e4, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB, enableMockTweets=true, mockSleepMs=10000, mockMinTweetLength=5, mockMaxTweetLength=15)
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - Started App in 0.294 seconds (JVM running for 0.566)
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:29:11 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 20:29:11 [main] INFO  c.m.d.r.impl.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:29:11 [pool-1-thread-1] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text malesuada malesuada consectetuer elit Elasticsearch purus dolor pulvinar
+2022-09-28 20:29:21 [pool-1-thread-1] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text congue malesuada amet consectetuer ipsum Microservices malesuada Lorem porttitor
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 14897 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.TwitterV2KafkaStreamRunner@6f8e0cee, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB, enableMockTweets=false, mockSleepMs=10000, mockMinTweetLength=5, mockMaxTweetLength=15)
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - Started App in 0.301 seconds (JVM running for 0.577)
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:29:42 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 20:29:42 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - bearerToken : AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB
+2022-09-28 20:29:42 [main] INFO  c.m.d.r.i.TwitterV2KafkaStreamRunner - Created filter for twitter stream for keywords: [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:29:47 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - Created rules for twitter stream Java
+2022-09-28 20:29:47 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - response: HttpResponseProxy{HTTP/1.1 200 OK [date: Wed, 28 Sep 2022 14:59:47 UTC, perf: 7626143928, server: tsa_f, set-cookie: guest_id_marketing=v1%3A166437718766918147; Max-Age=63072000; Expires=Fri, 27 Sep 2024 14:59:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: guest_id_ads=v1%3A166437718766918147; Max-Age=63072000; Expires=Fri, 27 Sep 2024 14:59:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: personalization_id="v1_TW2zNwnK1o22rhtjg00Azw=="; Max-Age=63072000; Expires=Fri, 27 Sep 2024 14:59:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, set-cookie: guest_id=v1%3A166437718766918147; Max-Age=63072000; Expires=Fri, 27 Sep 2024 14:59:47 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None, cache-control: no-cache, no-store, max-age=0, x-access-level: read, x-frame-options: SAMEORIGIN, x-transaction-id: 960203cf0682c557, x-xss-protection: 0, x-rate-limit-limit: 50, x-rate-limit-reset: 1664378087, x-content-type-options: nosniff, x-rate-limit-remaining: 49, strict-transport-security: max-age=631138519, x-response-time: 310, x-connection-hash: 34a270082880c91a4eb655004e4391a192ffe384019bea49b08b686ebb4c0a60, transfer-encoding: chunked] org.apache.http.client.entity.DecompressingEntity@60e9c3a5}
+2022-09-28 20:30:20 [main] INFO  c.m.d.r.impl.TwitterV2StreamHelper - line: {"data":{"author_id":"2994065985","created_at":"2022-09-28T14:59:48.000Z","id":"1575138208052133891","text":"RT @CherylN87528923:  What Is Data Science 🧫#Python #Roblox #IoT #ETH #Azure #PyTorch #Cython #RStats #GitHub #CPP #Java #BTSV #ADA #CShar…"},"includes":{"users":[{"id":"2994065985","name":"Python Bot","username":"FarisDi10p"},{"id":"1559449283010641920","name":"Rahesh Raghuwanshi","username":"CherylN87528923"}]},"matching_rules":[{"id":"1575118583033643017","tag":"Keyword: Java"}]}
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @5eniorDeveloper: Mentira, sí me quejo! Pero gracias a Java sobrevivo... https://t.co/eiHFEcjdAA
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text فردای آزادی تو همه شهرهای ایران هم یه خیابون باید برای این مرد نام گذاری کرد.
+#مهسا_امینی https://t.co/fjIUqDuBYH
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @ariiwham: Go around looking around while relaxing with the Jagat Arwah crews who are ready to welcome you tonight at press conference.…
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @imantadotv: 🚨 SORTEITO FRESCO de 15 MINECRAFTS JAVA para PC!! 
+
+Requisitos 👇🏼
+➡️ Seguir a @G2A_ES 
+➡️ Seguir a @imantadotv 
+➡️ Dar RT a…
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text O que eu faria de diferente:
+
+- Tentaria não me cobrar tanto, pois sou mesmo minha pior crítica
+
+O que eu quero fazer agora:
+- Estudar mais Java e frameworks diferentes
+- Estudar mais JS, TS e React
+- Concluir projetos com essas tecnologias
+- Conseguir meu primeiro trampo como Jr
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @KAFKA_Dev Ook niet👍
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @kafka_Little: نظامیان ایرانی بخوانند
+“کریستف نیومن” ﺳﺮﺑﺎﺯ ﺁﻟﻤﺎﻥ ﺷﺮﻗﯽ ﮐﻪ ﺑﺮﺍﯼ ﮐﻮﺩﮎ ﺟﺎﻣﺎﻧﺪﻩ ﺍﺯ ﺧﺎﻧﻮﺍﺩﻩ‌ﺍﺵ ﺳﯿﻢ ﺧﺎﺭﺩﺍﺭ ﺩﯾﻮﺍﺭ ﺑﺮﻟﯿﻦ ﺭﺍ ﮐﻨﺎﺭ…
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ¿Buscas trabajo #IT #TIC? Fullstack #DistritoFederal #angular #empleo https://t.co/gqR5rpxSpT
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @Minecraft is a #sandbox #game developed by @MojangStudios. It was created by @MarkusNotch in #Java.
+
+Have you dove in to the universe yet? https://t.co/LgddYdYhMa
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text @katukichi8008 Java版
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ❗ランキング：3位❗ (ゲーミングPCデバイス 人気・おすすめランキング)
+
+「湾曲型ゲーミングモニター27インチVAパネル OPTIX-G27C4」
+メーカ:MSI
+
+価格:¥32,800(00:00)
+
+https://t.co/u8xkOSIN0M
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @GetCryptoJobs: .@MELD_labs is hiring a Front End JavaScript Developer
+
+💼Tech
+📍Remote
+⏰Full Time
+💲60/100k
+
+MELD is the first #DeFi, non-…
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text ランキング:2位 「エアコン・暖房・季節家電」 (00:00)
+
+FBX141B-OD
+
+価格:-🔥
+
+https://t.co/qwDujJGsbu
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text かつて眼鏡＋ふんどしという両者とも主張の激しい装備を身につけた男が居ただろうか─────いや居ない！！
+彼こそが虫だ！！P.S. 偽虫もいるよ！
+
+ #誕生日だら祝えるやん全員あちまれェーｯ虫眼鏡バースデー会場はゥアソコダッ2022
+ #虫眼鏡誕生祭2022
+ #東海オンエア描いちゃった https://t.co/IUcxBQCIpD
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text Gubernur Isran Sebut Hasil Ekspor Batu Bara Kaltim Melebihi Estimasi Biaya Membangun IKN https://t.co/MyS87Mdqfd
+2022-09-28 20:30:20 [main] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text RT @ShowwcaseHQ: Dear Recruiters 🙌🏻
+
+If you're looking for a developer with decades of experience who is aware of:
+
+- Java
+- C#
+- JavaScrip…
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 18670 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.MockKafkaStreamRunner@267517e4, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB, enableMockTweets=true, mockSleepMs=10000, mockMinTweetLength=5, mockMaxTweetLength=15)
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - Started App in 0.284 seconds (JVM running for 0.711)
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:56:03 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 20:56:03 [main] INFO  c.m.d.r.impl.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 20:56:03 [pool-1-thread-1] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text dolor ipsum lectus elit Maecenas libero Kafka Lorem massa porttitor amet massa
+2022-09-28 22:26:39 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 33379 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 22:26:39 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 22:26:39 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.microservices.demo.App]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'twitterToKafkaServiceConfigData' for bean class [com.microservices.demo.config.TwitterToKafkaServiceConfigData] conflicts with existing, non-compatible bean definition of same name and class [com.microservices.demo.TwitterToKafkaServiceConfigData]
+2022-09-28 22:26:39 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-28 22:26:39 [main] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.microservices.demo.App]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'twitterToKafkaServiceConfigData' for bean class [com.microservices.demo.config.TwitterToKafkaServiceConfigData] conflicts with existing, non-compatible bean definition of same name and class [com.microservices.demo.TwitterToKafkaServiceConfigData]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:319)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:236)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:280)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:96)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:707)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:533)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.microservices.demo.App.main(App.java:38)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'twitterToKafkaServiceConfigData' for bean class [com.microservices.demo.config.TwitterToKafkaServiceConfigData] conflicts with existing, non-compatible bean definition of same name and class [com.microservices.demo.TwitterToKafkaServiceConfigData]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:132)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - Starting App on bcd0745efd48.ant.amazon.com with PID 37757 (/Users/darshilx/Documents/my-projects/microservices-demo/twitter-to-kafka-service/target/classes started by darshilx in /Users/darshilx/Documents/my-projects/microservices-demo)
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - No active profile set, falling back to default profiles: default
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - Dependency injected in App, twitterStreamRunner :com.microservices.demo.runner.impl.MockKafkaStreamRunner@267517e4, configData :TwitterToKafkaServiceConfigData(twitterKeywords=[Java, Microservices, Kafka, Elasticsearch], welcomeMessage=Hello microservices!, twitterV2BaseUrl=https://api.twitter.com/2/tweets/search/stream?tweet.fields=created_at&expansions=author_id, twitterV2RulesBaseUrl=https://api.twitter.com/2/tweets/search/stream/rules, twitterV2BearerToken=AAAAAAAAAAAAAAAAAAAAAN1PhgEAAAAAd5%2BKBCtLY%2BQi76cRQtU6tPbgISs%3DgirLC77suwwKxMisnv9EKz2aAB3LvJr15sAsJIhDARIVu8HCjB, enableMockTweets=true, mockSleepMs=10000, mockMinTweetLength=5, mockMaxTweetLength=15)
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - Started App in 0.31 seconds (JVM running for 0.821)
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - App starts...
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 22:56:02 [main] INFO  com.microservices.demo.App - Hello microservices!
+2022-09-28 22:56:02 [main] INFO  c.m.d.r.impl.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2022-09-28 22:56:02 [pool-1-thread-1] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text congue libero posuere adipiscing lectus libero ipsum malesuada Microservices malesuada ipsum pulvinar ultricies Fusce massa posuere
+2022-09-28 22:56:12 [pool-1-thread-1] INFO  c.m.d.listener.TwitterStatusListener - Twitter status with text lectus massa posuere purus congue Kafka libero lectus sit
